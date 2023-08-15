@@ -65,7 +65,7 @@
     "express-rate-limit": "^5.2.3",
     "googleapis": "^85.0.0",
     "js-yaml": "^4.1.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.8",
     "node-cron": "^3.0.0",
     "node-fetch": "2.6.1",
     "oci-sdk": "^2.0.0",
