@@ -68,7 +68,7 @@
     "minimist": "^1.2.5",
     "node-cron": "^3.0.0",
     "node-fetch": "2.6.1",
-    "oci-sdk": "^2.0.0",
+    "oci-sdk": "^2.70.4",
     "open": "^8.0.0",
     "properties-to-json": "^0.2.1",
     "request-ip": "^2.1.3",
